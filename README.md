@@ -1,3 +1,5 @@
+try it out: https://yousabry.github.io/code-tastic/
+
 example using filtering:
 
 ![FilterExample](https://user-images.githubusercontent.com/43581318/120090759-eefaa180-c0d2-11eb-85ea-fd46cbaf85db.gif)
