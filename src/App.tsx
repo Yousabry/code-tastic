@@ -48,7 +48,7 @@ export default class App extends React.Component<AppProps, AppState> {
   render() {
     return (
       <div className="App">
-        <h1>user freedom</h1>
+        <h1>code-tastic</h1>
         <h4>for sorting and filtering items</h4>
 
         <FilterCodeEditor

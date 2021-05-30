@@ -34,9 +34,10 @@ export class FilterCodeEditor extends React.Component<
 
   saveAndClose = () => {
     try {
-      // update function in parent
+      // eslint-disable-next-line
       let newFunction: any = new Function("person", this.getCleanCode());
 
+      // update function in parent
       this.props.onSave(this.state.unsavedCode, newFunction);
     } catch (err) {
       console.error(err);
