@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/code-tastic/static/css/main.8e68eef8.chunk.css",
+    "main.js": "/code-tastic/static/js/main.f5e2e4c0.chunk.js",
+    "main.js.map": "/code-tastic/static/js/main.f5e2e4c0.chunk.js.map",
+    "runtime-main.js": "/code-tastic/static/js/runtime-main.673ad917.js",
+    "runtime-main.js.map": "/code-tastic/static/js/runtime-main.673ad917.js.map",
+    "static/css/2.15a7a700.chunk.css": "/code-tastic/static/css/2.15a7a700.chunk.css",
+    "static/js/2.67059984.chunk.js": "/code-tastic/static/js/2.67059984.chunk.js",
+    "static/js/2.67059984.chunk.js.map": "/code-tastic/static/js/2.67059984.chunk.js.map",
+    "static/js/3.0d420b72.chunk.js": "/code-tastic/static/js/3.0d420b72.chunk.js",
+    "static/js/3.0d420b72.chunk.js.map": "/code-tastic/static/js/3.0d420b72.chunk.js.map",
+    "index.html": "/code-tastic/index.html",
+    "static/css/2.15a7a700.chunk.css.map": "/code-tastic/static/css/2.15a7a700.chunk.css.map",
+    "static/css/main.8e68eef8.chunk.css.map": "/code-tastic/static/css/main.8e68eef8.chunk.css.map",
+    "static/js/2.67059984.chunk.js.LICENSE.txt": "/code-tastic/static/js/2.67059984.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.673ad917.js",
+    "static/css/2.15a7a700.chunk.css",
+    "static/js/2.67059984.chunk.js",
+    "static/css/main.8e68eef8.chunk.css",
+    "static/js/main.f5e2e4c0.chunk.js"
+  ]
+}
